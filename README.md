@@ -1,5 +1,5 @@
 # AES-128-Encryption
-AES-128 C++ Implementation
+AES-128 Encryption C++ Implementation
 
 # Usage
 ```bash
